@@ -1,6 +1,6 @@
-# Hendra Parsaulian
-# 312210689
-# T.I.22.A3
+# Nama : Hendra Parsaulian
+# Nim  : 312210689
+# Kelas: T.I.22.A3
 
 ## Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
